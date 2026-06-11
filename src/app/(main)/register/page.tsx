@@ -25,7 +25,7 @@ export default function RegisterPage() {
   return (
     <div className="min-h-screen flex items-center justify-center px-4">
       <div className="w-full max-w-sm">
-        <h1 className="text-3xl font-bold text-center mb-8 font-serif">Join Medium.</h1>
+        <h1 className="text-3xl font-bold text-center mb-8 font-serif">Join WriteIt.</h1>
         <form onSubmit={handleSubmit} className="space-y-4">
           <input value={form.name} onChange={set("name")} placeholder="Full name" required
             className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-green-500" />
