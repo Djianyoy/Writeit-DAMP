@@ -1,0 +1,75 @@
+[
+  {
+    "id": "user-1",
+    "username": "johndoe",
+    "email": "john@example.com",
+    "password": "password123",
+    "name": "John Doe",
+    "bio": "Software engineer & writer. I write about web development, productivity, and life.",
+    "avatar": "",
+    "followers": [
+      "user-2",
+      "user-b297b8c7-7947-4b3e-8324-7469986721a8"
+    ],
+    "following": [
+      "user-2"
+    ],
+    "bookmarks": [
+      "article-3",
+      "article-1781075725192"
+    ],
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-2",
+    "username": "janedoe",
+    "email": "jane@example.com",
+    "password": "password123",
+    "name": "Jane Doe",
+    "bio": "Designer & storyteller. Passionate about UX, design systems, and creative writing.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=janedoe",
+    "followers": [
+      "user-1"
+    ],
+    "following": [
+      "user-1"
+    ],
+    "bookmarks": [
+      "article-1"
+    ],
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "user-3",
+    "username": "alexsmith",
+    "email": "alex@example.com",
+    "password": "password123",
+    "name": "Alex Smith",
+    "bio": "Tech enthusiast, open source contributor, coffee addict.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=alexsmith",
+    "followers": [
+      "user-b297b8c7-7947-4b3e-8324-7469986721a8"
+    ],
+    "following": [],
+    "bookmarks": [],
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "user-b297b8c7-7947-4b3e-8324-7469986721a8",
+    "username": "jiboy",
+    "email": "alifzildjian06@gmail.com",
+    "password": "berlian2",
+    "name": "jian",
+    "bio": "",
+    "avatar": "",
+    "followers": [],
+    "following": [
+      "user-1",
+      "user-3"
+    ],
+    "bookmarks": [
+      "article-3"
+    ],
+    "createdAt": "2026-06-10T09:18:53.317Z"
+  }
+]

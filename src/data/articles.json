@@ -1,0 +1,108 @@
+[
+  {
+    "id": "article-1",
+    "slug": "getting-started-with-nextjs-14",
+    "title": "Getting Started with Next.js 14",
+    "subtitle": "A comprehensive guide to building modern web apps with Next.js App Router",
+    "content": "<h2>Introduction</h2><p>Next.js 14 introduces powerful new features that make building full-stack web applications easier than ever. In this guide, we'll explore the App Router, Server Components, and more.</p><h2>App Router</h2><p>The App Router is the new paradigm for building Next.js applications. It leverages React Server Components by default, giving you incredible performance out of the box.</p><h2>Server Components</h2><p>Server Components run exclusively on the server, allowing you to access databases and APIs directly without exposing sensitive information to the client.</p><h2>Conclusion</h2><p>Next.js 14 is a massive step forward for the React ecosystem. Whether you're building a simple blog or a complex SaaS app, Next.js has the tools you need.</p>",
+    "coverImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80",
+    "authorId": "user-1",
+    "authorUsername": "johndoe",
+    "tags": [
+      "nextjs",
+      "react",
+      "webdev"
+    ],
+    "claps": [
+      "user-2",
+      "user-3",
+      "user-b297b8c7-7947-4b3e-8324-7469986721a8"
+    ],
+    "status": "published",
+    "readingTime": 5,
+    "createdAt": "2024-03-01T10:00:00.000Z",
+    "updatedAt": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "article-2",
+    "slug": "the-art-of-ux-design",
+    "title": "The Art of UX Design",
+    "subtitle": "How to create experiences that users actually love",
+    "content": "<h2>What is UX?</h2><p>User Experience design is about crafting products that provide meaningful and relevant experiences to users. This involves the design of the entire process of acquiring and integrating the product, including aspects of branding, design, usability, and function.</p><h2>Key Principles</h2><p>Great UX design follows a handful of core principles: user-centricity, consistency, hierarchy, context, user control, accessibility, and usability.</p><h2>Design Process</h2><p>The design process typically involves research, ideation, prototyping, testing, and iteration. Never skip user research — it's the foundation of great design.</p>",
+    "coverImage": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    "authorId": "user-2",
+    "authorUsername": "janedoe",
+    "tags": [
+      "design",
+      "ux",
+      "product"
+    ],
+    "claps": [
+      "user-1"
+    ],
+    "status": "published",
+    "readingTime": 4,
+    "createdAt": "2024-03-05T12:00:00.000Z",
+    "updatedAt": "2024-03-05T12:00:00.000Z"
+  },
+  {
+    "id": "article-3",
+    "slug": "typescript-best-practices-2024",
+    "title": "TypeScript Best Practices in 2024",
+    "subtitle": "Write cleaner, safer, and more maintainable TypeScript code",
+    "content": "<h2>Why TypeScript?</h2><p>TypeScript adds static typing to JavaScript, catching errors at compile time rather than runtime. In 2024, it's become the de-facto standard for large-scale JavaScript projects.</p><h2>Use Strict Mode</h2><p>Always enable <code>strict: true</code> in your tsconfig. This enables a suite of strict type-checking options that will save you from many common bugs.</p><h2>Prefer Interfaces Over Type Aliases</h2><p>For object shapes, prefer <code>interface</code> over <code>type</code>. Interfaces are more performant and support declaration merging.</p><h2>Avoid Any</h2><p>The <code>any</code> type defeats the purpose of TypeScript. Use <code>unknown</code> instead when you don't know the type, and narrow it properly.</p>",
+    "coverImage": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80",
+    "authorId": "user-3",
+    "authorUsername": "alexsmith",
+    "tags": [
+      "typescript",
+      "javascript",
+      "programming"
+    ],
+    "claps": [
+      "user-2",
+      "user-1",
+      "user-b297b8c7-7947-4b3e-8324-7469986721a8"
+    ],
+    "status": "published",
+    "readingTime": 6,
+    "createdAt": "2024-03-10T08:00:00.000Z",
+    "updatedAt": "2024-03-10T08:00:00.000Z"
+  },
+  {
+    "id": "article-4",
+    "slug": "my-draft-article",
+    "title": "My Draft Article",
+    "subtitle": "This is still a work in progress",
+    "content": "<p>Coming soon...</p>",
+    "coverImage": "",
+    "authorId": "user-1",
+    "authorUsername": "johndoe",
+    "tags": [
+      "draft"
+    ],
+    "claps": [],
+    "status": "draft",
+    "readingTime": 1,
+    "createdAt": "2024-03-15T00:00:00.000Z",
+    "updatedAt": "2024-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "article-1781075725192",
+    "slug": "besok-uas-1781075725192",
+    "title": "Besok UAS",
+    "subtitle": "Persiapan UAS ya geysss",
+    "content": "<p>besok aku uas hari kamis malam</p><p></p>",
+    "coverImage": "",
+    "authorId": "user-1",
+    "authorUsername": "johndoe",
+    "tags": [],
+    "claps": [
+      "user-1"
+    ],
+    "status": "published",
+    "readingTime": 1,
+    "createdAt": "2026-06-10T07:15:25.193Z",
+    "updatedAt": "2026-06-11T04:49:06.579Z"
+  }
+]
